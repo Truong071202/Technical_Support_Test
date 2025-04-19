@@ -19,3 +19,6 @@ Sincerely,
 Dang Cong Truong
 
 The Qikify Support Team
+
+# Question 2
+Link: https://truong071202.github.io/Technical_Support_Test/
