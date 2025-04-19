@@ -10,7 +10,6 @@ circle.style.backgroundColor = `hsl(${randomColor}, 100%, ${lightness}%)`;
 //add event click on circle
 circle.addEventListener('click', () => {
   clickCount++;
-  console.log(clickCount);
 
   if (clickCount < 9) {
     lightness -= 5;
